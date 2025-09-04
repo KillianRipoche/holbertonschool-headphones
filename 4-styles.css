@@ -1,14 +1,4 @@
 /* Variables */
-@font-face {
-	font-family: 'holberton_school-icon';
-	src: url('holberton_school-icon/fonts/holberton_school-icon.eot');
-	src: url('holberton_school-icon/fonts/holberton_school-icon.eot?#iefix') format('embedded-opentype'),
-		url('holberton_school-icon/fonts/holberton_school-icon.woff2') format('woff2'),
-		url('holberton_school-icon/fonts/holberton_school-icon.woff') format('woff'),
-		url('holberton_school-icon/fonts/holberton_school-icon.ttf') format('truetype'),
-		url('holberton_school-icon/fonts/holberton_school-icon.svg#holberton_school-icon') format('svg');
-}
-
 :root {
 	--font-weight-regular: 400;
 	--font-weight-bold: 700;
